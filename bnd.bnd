@@ -1,0 +1,5 @@
+Bundle-Name: Liferay Portal Workflow Java Executor
+Bundle-SymbolicName: com.liferay.portal.workflow.java.executor
+Bundle-Version: 1.0.0
+DynamicImport-Package: *
+-dsannotations-options: inherit
